@@ -11,4 +11,4 @@ plugins = /var/lib/grafana/plugins
 provisioning = /etc/grafana/provisioning
 [dashboards.json]
 enabled = true
-path = /etc/grafana/dashboards
+path = /var/lib/grafana/dashboards
